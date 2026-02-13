@@ -1,4 +1,4 @@
 another line
 master line
 new branch new line
-# 已手动修改
+git diff test
